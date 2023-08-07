@@ -1,0 +1,15 @@
+.shelf{
+    display: flex;
+    justify-content: center;
+    background-color: #F5F2EA;
+}
+.book{
+    width: 130px;
+    height: 110px;
+    margin: 50px;
+    padding: 15%;
+    border-radius: 15px;
+    text-align: center;
+    color: #F5F2EA;
+    background-color: #FF0000;
+}

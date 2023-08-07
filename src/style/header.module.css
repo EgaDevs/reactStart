@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    font-size: xx-large;
+}
+.links{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
